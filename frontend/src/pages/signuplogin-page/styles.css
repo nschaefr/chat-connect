@@ -1,0 +1,11 @@
+html,
+body,
+#root,
+.page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background: #28283C;
+}
