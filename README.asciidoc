@@ -1,7 +1,5 @@
 = ChatConnect (Uni-Projekt)
 
-*Entwickler:* Nils Schäfer
-
 image::chatconnect.png[300, 300]
 
 ChatConnect ist eine Echtzeit-Chatanwendung, die Benutzern ermöglicht, Textnachrichten in Echtzeit auszutauschen. Unser Hauptziel bei diesem Projekt ist es, eine benutzerfreundliche und zuverlässige Plattform für die Online-Kommunikation bereitzustellen. ChatConnect zeichnet sich durch seine vollständige Responsive-Funktionalität aus. Das bedeutet, dass die Anwendung reibungslos auf verschiedenen Geräten und Bildschirmgrößen funktioniert. +
